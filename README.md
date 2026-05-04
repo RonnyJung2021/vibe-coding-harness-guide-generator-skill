@@ -1,4 +1,4 @@
-# Vibe Coding Guide Generator ⚡
+# Vibe Coding Harness Guide Generator ⚡
 
 > **将混沌的灵感，转化为精确的行动**
 
