@@ -1,5 +1,5 @@
 ---
-name: "vibe-coding-guide-generator"
+name: "vibe-coding-harness-guide-generator"
 description: "基于 Harness 工程原则，将自然语言任务描述转化为面向 Cursor/Trae 用户的分步骤操作指南。支持输入容错性，输出可直接复制粘贴到 Agent 的指令序列与明确的验收标准。"
 ---
 

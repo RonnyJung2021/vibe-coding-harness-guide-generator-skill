@@ -159,10 +159,9 @@
 ## 文件结构
 
 ```
-vibe-coding-guide-generator/
-├── SKILL.md                      # Skill 入口 · 操作指南生成器
-├── harness-core.md               # Harness 工程核心原则（英文）
-├── harness-core.zh.md            # Harness 工程核心原则（中文）
+vibe-coding-harness-guide-generator/
+├── SKILL.md                      # Skill 入口 · 包含 Harness 核心原则
+├── SKILL.zh.md                   # 中文版 Skill 入口
 ├── examples/
 │   └── langchain-pdf-kb-rag-guide.md  # 完整示例：PDF 知识库系统
 └── README.md                     # 你正在阅读的文档
